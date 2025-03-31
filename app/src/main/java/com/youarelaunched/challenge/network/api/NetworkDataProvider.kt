@@ -3,7 +3,7 @@ package com.youarelaunched.challenge.network.api
 import android.content.Context
 import com.google.gson.Gson
 import com.youarelaunched.challenge.network.models.NetworkVendor
-import com.youarelaunched.challenge.data.network.models.NetworkVendorsData
+import com.youarelaunched.challenge.network.models.NetworkVendorsData
 import kotlinx.coroutines.CoroutineDispatcher
 import kotlinx.coroutines.withContext
 
